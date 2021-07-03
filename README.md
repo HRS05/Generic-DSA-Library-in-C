@@ -1,7 +1,7 @@
 # DOCUMENTATION
 
 ## Overview
-here you get to know about `library` of GENERIC data structures and which is built in `c` programing language.
+here you get to know about `library` of GENERIC data structures, which is built in `c` programming language.
 
 ## Why The Generic Data Structure In C ?
 we have `STL in C++`, `Collection classes in Java` but when we talk about `C` so there is no such facilites to handle some huge data. 
